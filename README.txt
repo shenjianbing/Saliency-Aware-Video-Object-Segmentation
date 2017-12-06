@@ -12,7 +12,7 @@ purposes, you should cite [1,2] in any resulting publication.
 IEEE CVPR, pp. 3395-3402, 2015
 
 [2] W. Wang, J. Shen, R. Yang, and F. Porikli, Saliency-aware Video Object Segmentation, 
-IEEE Trans. on Pattern Analysis and Machine Intelligence, doi://10.1109/TPAMI.2017.2662005, in press, 2017
+IEEE Trans. on Pattern Analysis and Machine Intelligence, 40(1):20-33, 2018
 
 The code has been tested on 32-bit/64-bit Window and 64-bit Linux platforms with matlab 
 R2009b/R2011b/R2012b/R2013a/R2015. Please compile  '*.cpp' files in 'subCode'.
